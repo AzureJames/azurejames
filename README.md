@@ -1,4 +1,4 @@
-### Hi there 👋
+### Web dev for Illure Design, freelancer, and game developer. I usually use Next.JS, Unity or Laravel.
 
 <!--
 **AzureJames/azurejames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
