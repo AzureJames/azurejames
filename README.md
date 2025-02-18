@@ -1,4 +1,4 @@
-### Web dev for Illure Design, freelancer, and game developer. I usually use Next.JS, Unity or Laravel.
+### Indie game developer at Pyrano Studios, web freelancer, artist, musician
 
 <!--
 **AzureJames/azurejames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
