@@ -1,5 +1,8 @@
-### Indie game developer at Pyrano Studios, web freelancer, artist, musician
-
+# Hello!
+## I'm a freelance web developer and indie game developer at Pyrano Studios.
+###-Honors graduate of Northern Alberta Institute of Technology (Web Development & Design)
+###-Web experience with Shopify, Laravel/PHP, Next.JS, HTML+CSS
+###-2D and 3D game developer with Godot 4
 <!--
 **AzureJames/azurejames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
