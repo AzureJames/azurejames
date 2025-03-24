@@ -1,5 +1,5 @@
 # Hello!
-## I'm a freelance web developer and indie game developer at Pyrano Studios.
+## I'm a freelance web developer and a indie game developer at Pyrano Studios.
 ### -Web experience with Shopify, Laravel/PHP, Next.JS, and HTML+CSS building for individuals and businesses
 ### -Honors graduate of Northern Alberta Institute of Technology (Web Development & Design)
 ### -2D and 3D game developer with Godot 4
